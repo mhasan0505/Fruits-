@@ -181,7 +181,9 @@ header .navigation li a:hover{
 }
 .thumb img{
     max-width: 50px;
+
 }
+/* social */
 .social{
     position: absolute;
     top: 50%;
